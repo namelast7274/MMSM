@@ -1,0 +1,381 @@
+MMSM: Airport contains doubled ATC routing nodes. These should be merged. 
+MMSM: Taxi route 04C/22C is not joined to a destination route. 
+MMSM: Taxi route 04C/22C is not joined to a destination route. 
+MMSM: Taxi route  is not joined to a destination route. 
+MMSM: Airport contains crossing ATC routing lines with no node at the crossing point. Split the lines and join the nodes. 
+MMSM: Airport contains crossing ATC routing lines with no node at the crossing point. Split the lines and join the nodes. 
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Airport contains short (<20m) Taxi route segment(s). (warning only)
+MMSM: Taxi Edge Z6 is not connected to the remainder of the taxi network. 
+MMSM: Taxi routes with HotZone tags most be connected on both ends to other taxi routes. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi routes with HotZone tags most be connected on both ends to other taxi routes. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05R/23L' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05R/23L' is set to a runway not present at the airport. 
+MMSM: Taxi route '05R/23L' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05R/23L' is set to a runway not present at the airport. 
+MMSM: Taxi route '05R/23L' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05R/23L' is set to a runway not present at the airport. 
+MMSM: Taxi route '05R/23L' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05R/23L' is set to a runway not present at the airport. 
+MMSM: Taxi route '05R/23L' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05R/23L' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route '05L/23R' has hot zones for runways not present at its airport. 
+MMSM: Taxi route '05L/23R' is set to a runway not present at the airport. 
+MMSM: Taxi route Z is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z1 is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z6 is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z2 is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z2 is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z2 is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z2 is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L departures 
+MMSM: Taxi route Z is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route Z1 is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route Z6 is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route Z2 is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route  is too close to runway 04L and now must be marked active for runway 04L arrivals 
+MMSM: Taxi route Z is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route Z1 is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route Z6 is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route Z2 is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R departures 
+MMSM: Taxi route Z is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route Z1 is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route Z6 is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route Z2 is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route 04C/22C is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxi route  is too close to runway 22R and now must be marked active for runway 22R arrivals 
+MMSM: Taxiroute node B_start is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node 04L/22R_split is out of runway 04C/22C's bounds 
+MMSM: Taxiroute node B_stop is out of runway 04C/22C's bounds 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C departures 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 04C and now must be marked active for runway 04C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C departures 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route 05L/23R is too close to runway 22C and now must be marked active for runway 22C arrivals 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R departures 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route  is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 04R and now must be marked active for runway 04R arrivals 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L departures 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route  is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Taxi route 05R/23L is too close to runway 22L and now must be marked active for runway 22L arrivals 
+MMSM: Metadata key 'Country' is invalid: First 3 letters must be 3-letter iso3166 country code, followed by an optional name 
+MMSM: This airport is impossibly large. Perhaps a part of the airport has been accidentally moved far away or is not correctly placed in the hierarchy? (warning only)
+MMSM: Taxiway has duplicate vertices. Delete selected vertices to fix this. 
+MMSM: Taxiway 'LINEA' has crossing or self-intersecting segments. 
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported is 8 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported is 8 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported is 8 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported is 8 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported is 8 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
+MMSM: Facade height not close to actual supported heights. Closest supported are 8, 13 (warning only)
