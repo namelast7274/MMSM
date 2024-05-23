@@ -1,22 +1,29 @@
-# MMSM
-## Instalación
-### Requisitos
-X-Plane 11
+# AIFA
 
-Git
+MMSM - X-Plane 11
 
-### Pasos de instalación
-Clonar el repositorio:
+## Installation
+
+#### Requisitos:
+
+[git](https://git-scm.com/downloads)
+
+unzip or rar
+
+#### Pasos de instalación:
 
 Dirígete a la carpeta de instalación de X-Plane 11. La ubicación predeterminada suele ser:
 
 C:\Program Files (x86)\Steam\steamapps\common\X-Plane 11\Custom Scenery
-o
+
+ó
+
 C:\X-Plane 11
 
 Abre una terminal o línea de comandos y ejecuta el siguiente comando para clonar el repositorio:
-
-git clone https://github.com/namelast7274/MMSM.git
+```bash
+  git clone https://github.com/namelast7274/MMSM.git
+```
 
 Despues debes de descomprimir la biblioteca CDB-Library:
 
@@ -26,12 +33,11 @@ La estructura de carpetas debería verse de la siguiente manera:
 
 X-Plane 11                        
 |--Custom Scenery                  
-|‎ ‎ ‎ ‎ ‎ ‎ |--MMSM                        
-|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |--CDB-Library                  
+|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |--MMSM                        
+|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |--CDB-Library                  
 |--Global Scenery                  
 |--Resources                        
-‎ ‎ ‎ ‎ ‎ ‎ ‎ |--default Scenery                  
-                                          
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎|--default Scenery           
 ### Uso
 Abre X-Plane 11.
 
@@ -48,11 +54,11 @@ Verifica los permisos de las carpetas.
 
 Revisa el archivo scenery_packs.ini en la carpeta Custom Scenery y asegúrate de que las entradas MMSM y CDB-Library estén incluidas y ordenadas correctamente.
 
-## Contribuir
+## Contribución
+
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora, por favor, abre un issue o envía un pull request.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia GPL2 y GPL3. Para más detalles, consulta el archivo LICENSE.
+Puedes revisar la [guía oficial de github](https://docs.github.com/es/get-started/exploring-projects-on-github/contributing-to-a-project) para contribuir al proyecto.
 
 
 
