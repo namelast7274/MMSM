@@ -1,10 +1,10 @@
-#MMSM
-##Instalación
-###Requisitos
+# MMSM
+## Instalación
+### Requisitos
 X-Plane 11
 Git
 
-###Pasos de instalación
+### Pasos de instalación
 Clonar el repositorio:
 
 Dirígete a la carpeta de instalación de X-Plane 11. La ubicación predeterminada suele ser:
@@ -32,7 +32,7 @@ X-Plane 11
       |                        
       └───default Scenery                  
                                           
-###Uso
+### Uso
 Abre X-Plane 11.
 Asegúrate de que MMSM estén listados en la sección de Custom Scenery.
 Inicia un vuelo y verifica que el escenario MMSM esté cargando correctamente.
@@ -42,10 +42,10 @@ Asegúrate de que los archivos se hayan clonado y descomprimido en las ubicacion
 Verifica los permisos de las carpetas.
 Revisa el archivo scenery_packs.ini en la carpeta Custom Scenery y asegúrate de que las entradas MMSM y CDB-Library estén incluidas y ordenadas correctamente.
 
-##Contribuir
+## Contribuir
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora, por favor, abre un issue o envía un pull request.
 
-##Licencia
+## Licencia
 Este proyecto está licenciado bajo la Licencia GPL2 y GPL3. Para más detalles, consulta el archivo LICENSE.
 
 
