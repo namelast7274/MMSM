@@ -2,6 +2,7 @@
 ## Instalación
 ### Requisitos
 X-Plane 11
+
 Git
 
 ### Pasos de instalación
