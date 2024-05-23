@@ -39,7 +39,7 @@ Asegúrate de que MMSM estén listados en la sección de Custom Scenery.
 
 Inicia un vuelo y verifica que el escenario MMSM esté cargando correctamente.
 
-###Problemas Comunes
+### Problemas Comunes
 El escenario no carga:
 
 Asegúrate de que los archivos se hayan clonado y descomprimido en las ubicaciones correctas.
