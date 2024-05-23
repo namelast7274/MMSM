@@ -21,18 +21,17 @@ Despues debes de descomprimir la biblioteca CDB-Library:
 Estructura de Carpetas
 La estructura de carpetas debería verse de la siguiente manera:
 
-markdown
-Copiar código
 X-Plane 11
-│
+│                        
 └───Custom Scenery
-│    │
-│    └───MMSM
+│    │                        
+│    └───MMSM                  
 │        └───CDB-Library
-└───Global Scenery
-└───Resources
-      |
-      └───default Scenery
+└───Global Scenery            
+└───Resources                  
+      |                        
+      └───default Scenery                  
+      
 ###Uso
 Abre X-Plane 11.
 Asegúrate de que MMSM estén listados en la sección de Custom Scenery.
