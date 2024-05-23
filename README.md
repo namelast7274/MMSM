@@ -22,15 +22,12 @@ Estructura de Carpetas
 La estructura de carpetas debería verse de la siguiente manera:
 
 X-Plane 11                        
-│                                    
-└───Custom Scenery                  
-│    │                              
-│    └───MMSM                        
-│        └───CDB-Library                  
-└───Global Scenery                  
-└───Resources                        
-      |                        
-      └───default Scenery                  
+|--Custom Scenery                  
+|‎ ‎ ‎ ‎ ‎ ‎ |--MMSM                        
+|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |--CDB-Library                  
+|--Global Scenery                  
+|--Resources                        
+‎ ‎ ‎ ‎ ‎ ‎ ‎ |--default Scenery                  
                                           
 ### Uso
 Abre X-Plane 11.
