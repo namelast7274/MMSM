@@ -33,8 +33,8 @@ La estructura de carpetas debería verse de la siguiente manera:
 
 X-Plane 11                        
 |--Custom Scenery                  
-|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |--MMSM                        
-|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |--CDB-Library                  
+|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   |--MMSM                        
+|‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   |--CDB-Library                  
 |--Global Scenery                  
 |--Resources                        
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎|--default Scenery           
