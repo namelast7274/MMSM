@@ -37,7 +37,8 @@ X-Plane 11
 |‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   |--CDB-Library                  
 |--Global Scenery                  
 |--Resources                        
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎|--default Scenery           
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎|--default Scenery
+
 ### Uso
 Abre X-Plane 11.
 
